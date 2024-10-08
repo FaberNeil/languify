@@ -26,7 +26,7 @@ SQLite/MySQL: For managing translation history and user data.
 Installation: 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/language-translator-app.git
+git clone https://github.com/FaberNeil/language-translator-app.git
 
 2. Navigate to the project directory:
 
